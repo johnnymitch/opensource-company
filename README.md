@@ -9,3 +9,6 @@ This will be more documentation on how it's done.
 # Terms
 - Open source: https://en.wikipedia.org/wiki/Open_source
 - Not for profit: https://en.wikipedia.org/wiki/Nonprofit_organization
+
+# Management
+- Holacracy, non-heirarcical management: https://www.blinkist.com/page19/holacracy-explained
